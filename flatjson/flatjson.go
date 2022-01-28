@@ -1,6 +1,6 @@
 // Package flatjson has a method that converts an input JSON object into a flattened version.
 //
-// For example, th object `{"abc": {"def": 1}}` will become `{"abc.def": 1}`.
+// For example, the object `{"abc": {"def": 1}}` will become `{"abc.def": 1}`.
 package flatjson
 
 import (
